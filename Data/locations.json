@@ -1,0 +1,644 @@
+[
+    {
+        "name": " Neuk\u00f6lln ",
+        "lat": 52.48126519,
+        "lng": 13.45494688,
+        "type": "factory"
+    },
+    {
+        "name": " Sch\u00f6neweide ",
+        "lat": 52.4609433,
+        "lng": 13.5054236,
+        "type": "factory"
+    },
+    {
+        "name": "Berlin-Wilmensdorf ",
+        "lat": 52.48078028,
+        "lng": 13.30762986,
+        "type": "factory"
+    },
+    {
+        "name": " Reuter ",
+        "lat": 52.53432599,
+        "lng": 13.24427115,
+        "type": "factory"
+    },
+    {
+        "name": " Moabit ",
+        "lat": 52.53802003,
+        "lng": 13.34558866,
+        "type": "factory"
+    },
+    {
+        "name": " Holzheizkraftwerk ",
+        "lat": 52.42472292,
+        "lng": 13.51663793,
+        "type": "factory"
+    },
+    {
+        "name": " Vattenfall ",
+        "lat": 52.53311902,
+        "lng": 13.37494798,
+        "type": "factory"
+    },
+    {
+        "name": " Vattenfall 2 ",
+        "lat": 52.4884434,
+        "lng": 13.49639189,
+        "type": "factory"
+    },
+    {
+        "name": " Mitte ",
+        "lat": 52.51221787,
+        "lng": 13.4214943,
+        "type": "factory"
+    },
+    {
+        "name": " Marzahn ",
+        "lat": 52.52735048,
+        "lng": 13.52278845,
+        "type": "factory"
+    },
+    {
+        "name": "Aeroport",
+        "lat": 52.36946176,
+        "lng": 13.49970493,
+        "type": "energy"
+    },
+    {
+        "name": "ADM Wild Europe GmbH & Co. KG",
+        "lat": 52.53362,
+        "lng": 13.20971,
+        "type": "street"
+    },
+    {
+        "name": "AFES GmbH Gross- und Einzelhandel",
+        "lat": 52.5348878,
+        "lng": 13.3213442,
+        "type": "street"
+    },
+    {
+        "name": "Alois Dallmayr Kaffee Berlin Gesellschaft mit beschr\u00e4nkter Haftung u. Co. KG",
+        "lat": 52.463183,
+        "lng": 13.4634744,
+        "type": "street"
+    },
+    {
+        "name": "Aseli Alfred u. Heinz Seliger Zuckerwaren",
+        "lat": 52.569534,
+        "lng": 13.3831599,
+        "type": "street"
+    },
+    {
+        "name": "Atelier Cacao GmbH Schokoladen-Manufaktur",
+        "lat": 52.5270612,
+        "lng": 13.3887787,
+        "type": "street"
+    },
+    {
+        "name": "August Storck KG",
+        "lat": 52.5773668,
+        "lng": 13.3234982,
+        "type": "street"
+    },
+    {
+        "name": "Back & Frost GmbH",
+        "lat": 52.4134564,
+        "lng": 13.3851557,
+        "type": "street"
+    },
+    {
+        "name": "B\u00e4cker Walf GmbH",
+        "lat": 52.4286256,
+        "lng": 13.3287006,
+        "type": "street"
+    },
+    {
+        "name": "B\u00e4ckerMann Backwaren und Feinkost GmbH",
+        "lat": 52.4753921,
+        "lng": 13.3236766,
+        "type": "street"
+    },
+    {
+        "name": "Backwaren und -technik Vertriebs GmbH c/o La nouvelle Boulangerie",
+        "lat": 52.4693968,
+        "lng": 13.4528123,
+        "type": "street"
+    },
+    {
+        "name": "Baikal Getr\u00e4nke GmbH",
+        "lat": 52.4890181,
+        "lng": 13.3872264,
+        "type": "street"
+    },
+    {
+        "name": "Balmi Albrot & Mirnik GmbH-Lachsr\u00e4ucherei",
+        "lat": 52.468365,
+        "lng": 13.4462347,
+        "type": "street"
+    },
+    {
+        "name": "Bandy Brooks GmbH finest ice cream & homemade chocolates",
+        "lat": 52.5192243,
+        "lng": 13.402637,
+        "type": "street"
+    },
+    {
+        "name": "BARLETTA-EIS GmbH",
+        "lat": 52.4890181,
+        "lng": 13.3872264,
+        "type": "street"
+    },
+    {
+        "name": "Berliner KS Fleisch- und Wurstwaren GmbH",
+        "lat": 52.5388422,
+        "lng": 13.2211143,
+        "type": "street"
+    },
+    {
+        "name": "Bernd August Feinkost-Fabrikation GmbH",
+        "lat": 52.4351102,
+        "lng": 13.3777062,
+        "type": "street"
+    },
+    {
+        "name": "Beumer & Lutum GmbH B\u00e4ckerei",
+        "lat": 52.4970571,
+        "lng": 13.4429321,
+        "type": "street"
+    },
+    {
+        "name": "BKL Fleisch- & Wurstwaren GmbH",
+        "lat": 52.3872011,
+        "lng": 13.4028952,
+        "type": "street"
+    },
+    {
+        "name": "Blutwurstmanufaktur GmbH",
+        "lat": 52.4737338,
+        "lng": 13.4418092,
+        "type": "street"
+    },
+    {
+        "name": "Brezel Company Berlin GmbH",
+        "lat": 52.4698018,
+        "lng": 13.4490295,
+        "type": "street"
+    },
+    {
+        "name": "Brotgarten Gesellschaft mit beschr\u00e4nkter Haftung in Charlottenburg",
+        "lat": 52.5156025,
+        "lng": 13.2922385,
+        "type": "street"
+    },
+    {
+        "name": "CEREN D\u00f6nerproduktions und Fleischverarbeitungs GmbH",
+        "lat": 52.5834929,
+        "lng": 13.3540126,
+        "type": "street"
+    },
+    {
+        "name": "CG Eismanufaktur KG",
+        "lat": 52.52798,
+        "lng": 13.31894,
+        "type": "street"
+    },
+    {
+        "name": "chocri GmbH",
+        "lat": 52.5453347,
+        "lng": 13.514527,
+        "type": "street"
+    },
+    {
+        "name": "Coca-Cola Gesellschaft mit beschr\u00e4nkter Haftung",
+        "lat": 52.5007161,
+        "lng": 13.4520593,
+        "type": "street"
+    },
+    {
+        "name": "CSV Care Speisen Versorgung GmbH & Co. KG",
+        "lat": 52.5348878,
+        "lng": 13.3213442,
+        "type": "street"
+    },
+    {
+        "name": "Der B\u00e4cker Feihl Berlin GmbH",
+        "lat": 52.5603036,
+        "lng": 13.5502835,
+        "type": "street"
+    },
+    {
+        "name": "DeWi Back Produktions GmbH",
+        "lat": 52.5359121,
+        "lng": 13.1754405,
+        "type": "street"
+    },
+    {
+        "name": "ECURA International GmbH",
+        "lat": 52.4974867,
+        "lng": 13.2952617,
+        "type": "street"
+    },
+    {
+        "name": "Eisspatz oHG",
+        "lat": 52.5530185,
+        "lng": 13.4495153,
+        "type": "street"
+    },
+    {
+        "name": "Emil Siebenschuh und Sohn P\u00e4chter Rainer Engelmann e.K.",
+        "lat": 52.5492468,
+        "lng": 13.381997,
+        "type": "street"
+    },
+    {
+        "name": "Endorphina Backkunst GmbH",
+        "lat": 52.4855635,
+        "lng": 13.4492188,
+        "type": "street"
+    },
+    {
+        "name": "EnProCo Berlin GmbH",
+        "lat": 52.4299315,
+        "lng": 13.5370231,
+        "type": "street"
+    },
+    {
+        "name": "Erich Hamann KG",
+        "lat": 52.4944994,
+        "lng": 13.3094815,
+        "type": "street"
+    },
+    {
+        "name": "Familienb\u00e4ckerei R\u00e4sler GmbH",
+        "lat": 52.551522,
+        "lng": 13.1621356,
+        "type": "street"
+    },
+    {
+        "name": "Fleischerei J\u00fcrgen Bachhuber GmbH",
+        "lat": 52.491,
+        "lng": 13.32603,
+        "type": "street"
+    },
+    {
+        "name": "Fleischerei Siedmann GmbH",
+        "lat": 52.5695097,
+        "lng": 13.4025849,
+        "type": "street"
+    },
+    {
+        "name": "Florida-Eis Manufaktur GmbH",
+        "lat": 52.5338198,
+        "lng": 13.1266488,
+        "type": "street"
+    },
+    {
+        "name": "Freiberger Lebensmittel GmbH",
+        "lat": 52.602551,
+        "lng": 13.3694922,
+        "type": "street"
+    },
+    {
+        "name": "Fricopan Back GmbH",
+        "lat": 52.5395783,
+        "lng": 13.3947044,
+        "type": "street"
+    },
+    {
+        "name": "Fricopan GmbH",
+        "lat": 52.5395783,
+        "lng": 13.3947044,
+        "type": "street"
+    },
+    {
+        "name": "Gebr. Westhoff GmbH + Co. Roh + R\u00f6stkaffee KG",
+        "lat": 52.58032,
+        "lng": 13.35158,
+        "type": "street"
+    },
+    {
+        "name": "Georg Hillmann GmbH & Co. KG",
+        "lat": 52.4428621,
+        "lng": 13.3153323,
+        "type": "street"
+    },
+    {
+        "name": "Georg Lemke GmbH u. Co. KG",
+        "lat": 52.4519388,
+        "lng": 13.4594336,
+        "type": "street"
+    },
+    {
+        "name": "Georg Wohlfeld Nachf. Fleischerei am Roseneck Inhaber: Michael Lindow",
+        "lat": 52.4776922,
+        "lng": 13.2811184,
+        "type": "street"
+    },
+    {
+        "name": "Germania Brauerei GmbH",
+        "lat": 52.5438654,
+        "lng": 13.36792,
+        "type": "street"
+    },
+    {
+        "name": "Gezer Fleischmanufaktur Berlin GmbH",
+        "lat": 52.5462239,
+        "lng": 13.3160006,
+        "type": "street"
+    },
+    {
+        "name": "Gr\u00e4tsch Tiefk\u00fchl-Backwaren Produktions GmbH",
+        "lat": 52.559543,
+        "lng": 13.4295081,
+        "type": "street"
+    },
+    {
+        "name": "Gr\u00fcntal's K\u00fcche GmbH",
+        "lat": 52.5100486,
+        "lng": 13.3141809,
+        "type": "street"
+    },
+    {
+        "name": "G\u00fcm\u00fcs Fladenbrot Produktions GmbH",
+        "lat": 52.5245681,
+        "lng": 13.3484642,
+        "type": "street"
+    },
+    {
+        "name": "Hans-Hermann Tessmer Fleischerei e. K.",
+        "lat": 52.4551697,
+        "lng": 13.3257311,
+        "type": "street"
+    },
+    {
+        "name": "H\u00e4hn Brot GmbH & Co. KG",
+        "lat": 52.46697,
+        "lng": 13.46209,
+        "type": "street"
+    },
+    {
+        "name": "Hugo E. Walter",
+        "lat": 52.4865305,
+        "lng": 13.3216004,
+        "type": "street"
+    },
+    {
+        "name": "Insulinde Cash & Carry GmbH",
+        "lat": 52.4175396,
+        "lng": 13.2937705,
+        "type": "street"
+    },
+    {
+        "name": "Johann Mayer B\u00e4ckerei und Konditorei OHG",
+        "lat": 52.4786982,
+        "lng": 13.3457187,
+        "type": "street"
+    },
+    {
+        "name": "Kap-Lan D\u00f6nerproduktion GmbH",
+        "lat": 52.5634055,
+        "lng": 13.3782932,
+        "type": "street"
+    },
+    {
+        "name": "Katz & Kr\u00fcger GmbH",
+        "lat": 52.5348878,
+        "lng": 13.3213442,
+        "type": "street"
+    },
+    {
+        "name": "Klaus Genz Fleisch- und Wurstwaren e. K.",
+        "lat": 52.5426448,
+        "lng": 13.5617021,
+        "type": "street"
+    },
+    {
+        "name": "Komplet B\u00e4ckereigrundstoffe GmbH",
+        "lat": 52.4066245,
+        "lng": 13.3826667,
+        "type": "street"
+    },
+    {
+        "name": "KOMPLET KG. B\u00e4ckereigrundstoff-Beteiligungsgesellschaft m.b.H. & Co.",
+        "lat": 52.4066245,
+        "lng": 13.3826667,
+        "type": "street"
+    },
+    {
+        "name": "Konditorei CZERR GmbH & Co. KG",
+        "lat": 52.4852596,
+        "lng": 13.3453815,
+        "type": "street"
+    },
+    {
+        "name": "Konditorei Engelmann Produktions GmbH",
+        "lat": 52.4386186,
+        "lng": 13.5095815,
+        "type": "street"
+    },
+    {
+        "name": "K\u00e4penicker B\u00fcrgerbr\u00e4u GmbH",
+        "lat": 52.4465748,
+        "lng": 13.6239074,
+        "type": "street"
+    },
+    {
+        "name": "K\u00fcchenWerke GmbH",
+        "lat": 52.4151228,
+        "lng": 13.3026483,
+        "type": "street"
+    },
+    {
+        "name": "Laufer Feinb\u00e4ckerei und Konditorei GmbH",
+        "lat": 52.4656756,
+        "lng": 13.1215872,
+        "type": "street"
+    },
+    {
+        "name": "Lichtenberger Fleisch und Wurstproduktion GmbH",
+        "lat": 52.5224527,
+        "lng": 13.4919568,
+        "type": "street"
+    },
+    {
+        "name": "mago Kohn und Kempkes GmbH & Co. KG Wurst- und Fleischwaren",
+        "lat": 52.586832,
+        "lng": 13.3099614,
+        "type": "street"
+    },
+    {
+        "name": "Martin Sch\u00f6nberg Truthahn Shop GmbH",
+        "lat": 52.610244,
+        "lng": 13.2146173,
+        "type": "street"
+    },
+    {
+        "name": "Matthies GmbH & Co. Rauch-Fleisch KG",
+        "lat": 52.6153492,
+        "lng": 13.3565227,
+        "type": "street"
+    },
+    {
+        "name": "maurer wurstwaren GmbH & Co. KG",
+        "lat": 52.586832,
+        "lng": 13.3099614,
+        "type": "street"
+    },
+    {
+        "name": "Maximilian Fleischwaren GmbH",
+        "lat": 52.4639036,
+        "lng": 13.438386,
+        "type": "street"
+    },
+    {
+        "name": "Moema Espresso Republic GmbH",
+        "lat": 52.5346344,
+        "lng": 13.4224666,
+        "type": "street"
+    },
+    {
+        "name": "Mondo Pasta GmbH",
+        "lat": 52.5643982,
+        "lng": 13.2187009,
+        "type": "street"
+    },
+    {
+        "name": "Ozan Food Falafel GmbH",
+        "lat": 52.5628092,
+        "lng": 13.3812678,
+        "type": "street"
+    },
+    {
+        "name": "Planta Tabak-Manufaktur Dr. Manfred Obermann GmbH & Co. KG",
+        "lat": 52.4912134,
+        "lng": 13.384475,
+        "type": "street"
+    },
+    {
+        "name": "Privatbrauerei Am Rollberg GmbH",
+        "lat": 52.4794237,
+        "lng": 13.4306631,
+        "type": "street"
+    },
+    {
+        "name": "Provinz D\u00f6nerproduktion GmbH",
+        "lat": 52.5634055,
+        "lng": 13.3782932,
+        "type": "street"
+    },
+    {
+        "name": "Sawade GmbH",
+        "lat": 52.5808269,
+        "lng": 13.2961616,
+        "type": "street"
+    },
+    {
+        "name": "Schilkin GmbH & Co. KG Berlin Spirituosenherstellung",
+        "lat": 52.5058538,
+        "lng": 13.5816047,
+        "type": "street"
+    },
+    {
+        "name": "SIZILIA Citruss\u00e4fte GmbH & Co Produktions KG",
+        "lat": 52.5795633,
+        "lng": 13.2994651,
+        "type": "street"
+    },
+    {
+        "name": "Spreewaffel Berlin-Pankow GmbH",
+        "lat": 52.5548795,
+        "lng": 13.4195992,
+        "type": "street"
+    },
+    {
+        "name": "Steinecke`s Heidebrot Backstube GmbH & Co. KG",
+        "lat": 52.5779327,
+        "lng": 13.3560207,
+        "type": "street"
+    },
+    {
+        "name": "Storck Schokoladen KG",
+        "lat": 52.5773668,
+        "lng": 13.3234982,
+        "type": "street"
+    },
+    {
+        "name": "Suckow Produktions- u. Vertriebs GmbH",
+        "lat": 52.4113509,
+        "lng": 13.3795099,
+        "type": "street"
+    },
+    {
+        "name": "TEKD\u00f6ner Produktion GmbH",
+        "lat": 52.5398346,
+        "lng": 13.3839765,
+        "type": "street"
+    },
+    {
+        "name": "Thiel & Gutwillinger GmbH Fleischerei und Partyservice",
+        "lat": 52.6156815,
+        "lng": 13.3076558,
+        "type": "street"
+    },
+    {
+        "name": "Tims Kanadische Backwaren GmbH",
+        "lat": 52.429469,
+        "lng": 13.329792,
+        "type": "street"
+    },
+    {
+        "name": "Torsten Schnell GmbH B\u00e4ckermeister Konditormeister",
+        "lat": 52.562963,
+        "lng": 13.4598373,
+        "type": "street"
+    },
+    {
+        "name": "Trockenwerk Dretzel Gesellschaft mit beschr\u00e4nkter Haftung",
+        "lat": 52.5145855,
+        "lng": 13.2663702,
+        "type": "street"
+    },
+    {
+        "name": "Veganz Group AG",
+        "lat": 52.5085399,
+        "lng": 13.450446,
+        "type": "street"
+    },
+    {
+        "name": "Vollkornkonditorei Tillmann GmbH",
+        "lat": 52.4625239,
+        "lng": 13.4580535,
+        "type": "street"
+    },
+    {
+        "name": "Weichardt-Brot Gesellschaft mit beschr\u00e4nkter Haftung",
+        "lat": 52.4859548,
+        "lng": 13.3264127,
+        "type": "street"
+    },
+    {
+        "name": "Weidengold Fleischgrosshandel GmbH",
+        "lat": 52.5348878,
+        "lng": 13.3213442,
+        "type": "street"
+    },
+    {
+        "name": "Wiener Conditorei & Caffeehaus Betriebs-GmbH",
+        "lat": 52.5160058,
+        "lng": 13.2607878,
+        "type": "street"
+    },
+    {
+        "name": "Wilhelm Reuss GmbH & Co.KG Lebensmittelwerk",
+        "lat": 52.4726546,
+        "lng": 13.4591639,
+        "type": "street"
+    },
+    {
+        "name": "Wilko Knobloch Fleischerei Imbiss Wurstproduktion e.K.",
+        "lat": 52.5824248,
+        "lng": 13.3195365,
+        "type": "street"
+    }
+]
